@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+.DS_Store
+
+# a baseline made while trying the tool out in this folder
+.fim_baseline.json
